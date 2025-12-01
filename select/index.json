@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Small Soldiers",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2025-12-01T09:49:00.461030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Another One Bites the Dust (Small Soldiers remix)",
+      "artist": "Queen & Wyclef Jean feat. Pras & Free",
+      "has_synced": false,
+      "path": "select/01_Another_One_Bites_the_Dust_(Small_Soldiers_remix)_Queen_&_Wyclef_Jean_feat._Pras_&_Free.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Another One Bites The Dust (Small Soldiers Remix)",
+      "artist": "Wyclef Jean & Queen Pras Michel & Free",
+      "has_synced": false,
+      "path": "select/02_Another_One_Bites_The_Dust_(Small_Soldiers_Remix)_Wyclef_Jean_&_Queen_Pras_Michel_&_Free.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Another One Bites the Dust (Small Soldiers remix)",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/03_Another_One_Bites_the_Dust_(Small_Soldiers_remix)_Queen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Another One Bites The Dust (Small Soldiers Remix)",
+      "artist": "Queen & Wyclef Jean Ft. Pras & Free",
+      "has_synced": false,
+      "path": "select/04_Another_One_Bites_The_Dust_(Small_Soldiers_Remix)_Queen_&_Wyclef_Jean_Ft._Pras_&_Free.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Small Soldiers (feat. PUNPEE)",
+      "artist": "ピーナッツくん, PUNPEE",
+      "has_synced": false,
+      "path": "select/pl_01_Small_Soldiers_(feat._PUNPEE)_ピーナッツくん,_PUNPEE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Small Soldiers (feat. PUNPEE)",
+      "artist": "ピーナッツくん, PUNPEE",
+      "has_synced": false,
+      "path": "select/pl_02_Small_Soldiers_(feat._PUNPEE)_ピーナッツくん,_PUNPEE.txt"
+    }
+  ]
+}
